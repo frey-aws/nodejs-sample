@@ -12,8 +12,12 @@ modifyDBInstance = function(o) {
     });
 };
 
+/*
 exports.handler = function (event, context) {    
     modifyDBInstance(event, function(data) {
         context.succeed();
     });
 };
+
+*/
+
